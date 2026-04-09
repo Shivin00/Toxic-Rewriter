@@ -108,8 +108,8 @@ This version implements a strong prototype of many advanced features using heuri
 
 ## Strong Next Steps
 
-- add multilingual support with locale-specific tone rules
-- expose a lightweight API for Slack, Discord, or CRM integration
-- store user feedback in an opt-in local profile
-- fine-tune a dedicated politeness-transfer model
-- add full conversation mediation and dual-rewrite mode
+- Add multilingual support with locale-specific tone rules
+- Expose a lightweight API for Slack, Discord, or CRM integration
+- Store user feedback in an opt-in local profile
+- Fine-tune a dedicated politeness-transfer model
+- Add full conversation mediation and dual-rewrite mode
