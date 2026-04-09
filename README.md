@@ -100,11 +100,11 @@ If hosted model loading fails, the app still works through the built-in heuristi
 
 This version implements a strong prototype of many advanced features using heuristics and model-assisted rewriting when available. The following ideas are partially represented as product direction rather than full production systems:
 
-- adaptive learning with persistent personalization
-- multi-language rewriting
-- real-time API integrations
-- encrypted enterprise deployment
-- conflict mediation for full conversations
+- Adaptive learning with persistent personalization
+- Multi-language rewriting
+- Real-time API integrations
+- Encrypted enterprise deployment
+- Conflict mediation for full conversations
 
 ## Strong Next Steps
 
