@@ -95,21 +95,3 @@ streamlit run app.py
 5. Deploy.
 
 If hosted model loading fails, the app still works through the built-in heuristic fallback.
-
-## Notes on Scope
-
-This version implements a strong prototype of many advanced features using heuristics and model-assisted rewriting when available. The following ideas are partially represented as product direction rather than full production systems:
-
-- Adaptive learning with persistent personalization
-- Multi-language rewriting
-- Real-time API integrations
-- Encrypted enterprise deployment
-- Conflict mediation for full conversations
-
-## Strong Next Steps
-
-- Add multilingual support with locale-specific tone rules
-- Expose a lightweight API for Slack, Discord, or CRM integration
-- Store user feedback in an opt-in local profile
-- Fine-tune a dedicated politeness-transfer model
-- Add full conversation mediation and dual-rewrite mode
